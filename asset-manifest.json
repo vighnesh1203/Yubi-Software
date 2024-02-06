@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yubi-Software---Front-end-USE-CASE-2/static/css/main.01d60de1.css",
+    "main.js": "/Yubi-Software---Front-end-USE-CASE-2/static/js/main.6c8df599.js",
+    "static/js/592.5cb20d81.chunk.js": "/Yubi-Software---Front-end-USE-CASE-2/static/js/592.5cb20d81.chunk.js",
+    "index.html": "/Yubi-Software---Front-end-USE-CASE-2/index.html",
+    "main.01d60de1.css.map": "/Yubi-Software---Front-end-USE-CASE-2/static/css/main.01d60de1.css.map",
+    "main.6c8df599.js.map": "/Yubi-Software---Front-end-USE-CASE-2/static/js/main.6c8df599.js.map",
+    "592.5cb20d81.chunk.js.map": "/Yubi-Software---Front-end-USE-CASE-2/static/js/592.5cb20d81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d60de1.css",
+    "static/js/main.6c8df599.js"
+  ]
+}
