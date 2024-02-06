@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "id": "ebfa",
+      "name": "www.google.com",
+      "status": "failure"
+    },
+    {
+      "id": "6e44",
+      "name": "www.club.com",
+      "status": "success"
+    },
+    {
+      "id": "b8a8",
+      "name": "asfa",
+      "status": "success"
+    },
+    {
+      "id": "3976",
+      "name": "",
+      "status": "success"
+    }
+  ]
+}
